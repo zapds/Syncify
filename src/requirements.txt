@@ -1,0 +1,3 @@
+requests==2.81.1
+youtube-search==2.1.2
+youtube-dl @ https://github.com/ytdl-org/youtube-dl
