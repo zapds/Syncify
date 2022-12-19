@@ -2,6 +2,7 @@ import base64
 import os
 from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import urlparse
+import config
 
 import requests
 import youtube_dl
